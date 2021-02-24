@@ -10,7 +10,7 @@ My website should be able to:
 
 ## Bugs to be fixed
 
-1. mall bugs in my code...but I'm lazy so I can't fix them all.
+1. small bugs in my code...but I'm lazy so I can't fix them all.
 
 I wish somebody would help me!Website loads but nothing works in my javascript
 2. Website loads but nothing happens
